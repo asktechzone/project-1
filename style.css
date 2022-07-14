@@ -19,4 +19,9 @@ h3 {
 
 #donate {
     text-align: center;
+    margin-left: 45%;
+}
+
+.background-img {
+    background-image: url(they-need-help.jpg);
 }

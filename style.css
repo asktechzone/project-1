@@ -24,4 +24,6 @@ h3 {
 
 .background-img {
     background-image: url(they-need-help.jpg);
-}
+    padding: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;

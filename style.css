@@ -1,0 +1,22 @@
+.font-text {
+    color: aqua;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: rgba(10, 172, 172, 0.74);
+}
+
+#link-problem {
+    font-weight: 700;
+    text-decoration: none;
+
+
+}
+
+#donate {
+    text-align: center;
+}

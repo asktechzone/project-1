@@ -20,6 +20,9 @@ h3 {
 #donate {
     text-align: center;
     margin-left: 45%;
+    background-color: tomato;
+    padding: 8px 25px;
+    border-radius: 5px;
 }
 
 .background-img {
@@ -27,3 +30,9 @@ h3 {
     padding: 10%;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+body {
+
+    margin: 0%;
+}

@@ -30,9 +30,20 @@ h3 {
     padding: 10%;
     background-repeat: no-repeat;
     background-size: cover;
+    background-size: cover;
 }
 
 body {
 
     margin: 0%;
+}
+
+footer {
+
+    text-align: center;
+    background-color: black;
+    color: tomato;
+    padding: 20px 40px;
+    margin-top: 50px;
+
 }

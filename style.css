@@ -1,14 +1,22 @@
-.font-text {
-    color: aqua;
-    font-size: xx-large;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+
+
+body{
+    margin: auto;
+}
+.need{
+    color: whitesmoke;
+    text-align:center;
 }
 
-h3 {
-    text-align: center;
-    color: rgba(10, 172, 172, 0.74);
+
+#font{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 700;
 }
+
+
 
 #link-problem {
     font-weight: 700;
@@ -17,13 +25,16 @@ h3 {
 
 }
 
-#donate {
-    text-align: center;
-    margin-left: 45%;
+
+
+#donate{
+    
     background-color: tomato;
-    padding: 8px 25px;
-    border-radius: 5px;
+    padding: 10px 15px;
+    border-radius: 8%;
+    margin-left: 42%;
 }
+
 
 .background-img {
     background-image: url(they-need-help.jpg);
@@ -33,17 +44,83 @@ h3 {
     background-size: cover;
 }
 
-body {
 
-    margin: 0%;
+.top-heading{
+   text-align: center;
+   font-size: xx-large;
 }
 
-footer {
-
+.heading{
     text-align: center;
-    background-color: black;
-    color: tomato;
-    padding: 20px 40px;
+
+}
+
+.tk{
+    width: 100px;
+    height: 20px;
+    border: 2px solid #000;
+    padding: 30px;
+    margin: 50px;
+    
+    color: #000;; 
+    text-align: center;   
+    font-weight: 700;
+    font-size: x-large;
     margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+
+#tk-color{
+    color: #f00;
+    border: 2px solid #f00;
+}
+
+
+.money{
+    display:flex;
+   
+}
+
+#bg-color{
+    background-color: darkgray;
+    padding: 25px 25px;
+}
+
+.box{
+    height: 250px;
+    width: 400px;
+    background-color: rgb(218, 182, 136);
+    margin-left: 33px;
+    padding: 5px 10px;
+    font-size: x-large;
+    margin-right: 33px;
+    
+
+}
+
+#box-2{
+background-color:rgba(196, 137, 60, 0.788) ; 
+
+}
+
+#box-3{
+    background-color: rgba(204, 125, 22, 0.788) ;
+    
+}
+
+
+
+
+
+
+
+footer{
+    background-color: #000;
+    color: tomato;
+    text-align: center;
+    padding: 15px 15px;
+    margin-top: 10%;
 
 }
